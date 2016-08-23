@@ -1,0 +1,9 @@
+---
+VM version: Jun 10 2016 15:27:09 - 81_REL - optU - windows amd64 - 6 - bas2:270868 (mixed mode)
+
+Time:2016-08-2314:27:16
+Pid: 34868
+Hostname: SOFN60264504A
+current dir: C:\Users\i333468\jUnit_course
+---
+   :    [34240] 14:27:16 ***ERROR (:0): Java assert: "expected:<[C@3e6fa38a> but was:<[C@66a3ffec>" in org.junit.Assert.fail(Assert.java:88)
