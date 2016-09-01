@@ -1,0 +1,9 @@
+---
+VM version: Jun 10 2016 15:27:09 - 81_REL - optU - windows amd64 - 6 - bas2:270868 (mixed mode)
+
+Time:2016-08-2514:51:11
+Pid: 39676
+Hostname: SOFN60264504A
+current dir: C:\Users\i333468\jUnit_course
+---
+   :    [39952] 14:51:11 ***ERROR (:0): Java assert: "expected:<501> but was:<400>" in org.junit.Assert.fail(Assert.java:88)
